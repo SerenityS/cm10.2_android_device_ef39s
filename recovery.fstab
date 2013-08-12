@@ -1,0 +1,17 @@
+/dev/block/mmcblk0p1		/fotamodem		vfat		defaults		defaults
+/dev/block/mmcblk0p2		/sbl1			emmc		defaults		defaults
+/dev/block/mmcblk0p3		/sbl2			emmc		defaults		defaults
+/dev/block/mmcblk0p5		/rpm			emmc		defaults		defaults
+/dev/block/mmcblk0p6		/sbl3			emmc		defaults		defaults
+/dev/block/mmcblk0p7		/lk			emmc		defaults		defaults
+/dev/block/mmcblk0p8		/boot			emmc		defaults		defaults
+/dev/block/mmcblk0p9		/tz			emmc		defaults		defaults
+/dev/block/mmcblk0p10		/info			emmc		defaults		defaults
+/dev/block/mmcblk0p13		/system			ext4		defaults		defaults
+/dev/block/mmcblk0p14 		/data			ext4		defaults		defaults
+/dev/block/mmcblk0p16		/cache			ext4		defaults		defaults
+/dev/block/mmcblk0p17		/tombstones		emmc		defaults		defaults
+/dev/block/mmcblk0p18		/recovery		emmc		defaults		defaults
+/dev/block/mmcblk0p19		/mdm			emmc		defaults		defaults
+/dev/block/mmcblk0p27		/sdcard			vfat		defaults		defaults
+/dev/block/mmcblk1p1		/external_sd		vfat		defaults		defaults
